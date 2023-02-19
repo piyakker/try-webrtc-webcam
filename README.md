@@ -21,6 +21,6 @@ python3 webcam.py
 
 4. Get main page at [http://localhost:8080](http://localhost:8080)
 
-5.Click start and you will see your camera view displayed!
+5. Click start and you will see your camera view displayed!
 
 For more details about webRTC: [aiotrc-examples](https://github.com/aiortc/aiortc/tree/2362e6d1f0c730a0f8c387bbea76546775ad2fe8/examples)
